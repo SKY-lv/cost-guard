@@ -1,0 +1,7 @@
+{
+  "name": "cost-guard",
+  "version": "1.0.0",
+  "description": "AI API cost monitoring. Track spend, compare providers, optimize budget.",
+  "main": "cost_guard.js",
+  "license": "MIT"
+}
