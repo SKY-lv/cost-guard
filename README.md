@@ -1,9 +1,21 @@
-# cost-guard
+# Cost Guard
 
-AI API cost monitoring. Track spend, compare providers, optimize budget.
+Track and optimize AI API costs. Multi-model comparison, token counting, budget alerts.
+
+## Features
+
+- Multi-model cost comparison (GPT, Claude, Gemini)
+- Token counting
+- Budget alerts
+- Usage reports
+- MIT Licensed
+
+## Install
 
 ```bash
-node cost_guard.js init 100
-node cost_guard.js track 5000 gpt-4o-mini
-node cost_guard.js compare 10000
+openclaw skills install skylv-cost-guard
 ```
+
+## License
+
+MIT
